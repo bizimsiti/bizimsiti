@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bizimsiti&hide=Pug,shell&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##
+<h3 align="left">Languages and Tools:</h3>
 <div>
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
 	  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
